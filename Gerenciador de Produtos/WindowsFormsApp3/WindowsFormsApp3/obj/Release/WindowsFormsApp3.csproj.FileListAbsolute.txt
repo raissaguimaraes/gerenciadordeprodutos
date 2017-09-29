@@ -1,0 +1,30 @@
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Release\DB.mdb
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Form1.resources
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.telaACFornecedor.resources
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.telaACProduto.resources
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.telaFornecedor.resources
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.telaProduto.resources
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.telaRelatorio.resources
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
+C:\Users\Raissa\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\DB.mdb
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Form1.resources
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.telaACFornecedor.resources
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.telaACProduto.resources
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.telaFornecedor.resources
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.telaProduto.resources
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.telaRelatorio.resources
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+C:\Users\Raissa\Projetos de Desenvolvimento\Gerenciador de Produtos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
